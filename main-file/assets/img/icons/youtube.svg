@@ -1,0 +1,19 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0_17_2884)">
+    <!-- Laptop Base -->
+    <rect x="10" y="32" width="44" height="16" rx="2" stroke="#4770FF" stroke-width="2" fill="none"/>
+    <rect x="12" y="34" width="40" height="10" fill="#4770FF" stroke="#4770FF" stroke-width="2"/>
+    <!-- Laptop Screen -->
+    <rect x="14" y="20" width="36" height="14" rx="2" stroke="#4770FF" stroke-width="2" fill="none"/>
+    <path d="M16 22H34M16 26H30M16 30H28" stroke="white" stroke-width="2" stroke-linecap="round"/>
+    <!-- Server Box -->
+    <rect x="28" y="4" width="8" height="12" rx="2" stroke="#4770FF" stroke-width="2" fill="none"/>
+    <!-- Connection Lines -->
+    <path d="M32 16V20" stroke="#4770FF" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <defs>
+    <clipPath id="clip0_17_2884">
+      <rect width="64" height="64" fill="white"/>
+    </clipPath>
+  </defs>
+</svg>

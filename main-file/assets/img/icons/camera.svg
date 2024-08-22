@@ -1,0 +1,18 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0_17_2875)">
+    <!-- Base Cylinder Shape -->
+    <ellipse cx="32" cy="20" rx="20" ry="10" stroke="#4770FF" stroke-width="2" fill="none"/>
+    <path d="M12 20 C12 24, 52 24, 52 20 L52 40 C52 44, 12 44, 12 40 Z" stroke="#4770FF" stroke-width="2" fill="none"/>
+    <ellipse cx="32" cy="40" rx="20" ry="10" stroke="#4770FF" stroke-width="2" fill="none"/>
+
+    <!-- Central Database Icon -->
+    <ellipse cx="32" cy="34.6665" rx="10" ry="5" fill="#4770FF"/>
+    <path d="M22 34.6665 C22 37, 42 37, 42 34.6665 L42 44 C42 46.3335, 22 46.3335, 22 44 Z" fill="#4770FF"/>
+    <ellipse cx="32" cy="44" rx="10" ry="5" fill="#4770FF"/>
+  </g>
+  <defs>
+    <clipPath id="clip0_17_2875">
+      <rect width="64" height="64" fill="white"/>
+    </clipPath>
+  </defs>
+</svg>

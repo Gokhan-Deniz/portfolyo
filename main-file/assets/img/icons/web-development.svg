@@ -1,0 +1,29 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0_17_2893)">
+    <!-- Model Box -->
+    <rect x="10" y="16" width="14" height="12" rx="2" stroke="#4770FF" stroke-width="2" fill="none"/>
+    <text x="17" y="24" fill="#4770FF" font-size="8" text-anchor="middle" font-family="Arial">Model</text>
+    
+    <!-- View Box -->
+    <rect x="40" y="16" width="14" height="12" rx="2" stroke="#4770FF" stroke-width="2" fill="none"/>
+    <text x="47" y="24" fill="#4770FF" font-size="8" text-anchor="middle" font-family="Arial">View</text>
+    
+    <!-- Controller Box -->
+    <rect x="25" y="36" width="14" height="12" rx="2" stroke="#4770FF" stroke-width="2" fill="none"/>
+    <text x="32" y="44" fill="#4770FF" font-size="8" text-anchor="middle" font-family="Arial">Ctrl</text>
+    
+    <!-- Arrows -->
+    <path d="M24 22H40" stroke="#4770FF" stroke-width="2" stroke-linecap="round"/>
+    <path d="M24 18L20 22L24 26" stroke="#4770FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M40 22L44 26L40 30" stroke="#4770FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M17 28V36" stroke="#4770FF" stroke-width="2" stroke-linecap="round"/>
+    <path d="M17 36L14 32L10 36" stroke="#4770FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M47 28V36" stroke="#4770FF" stroke-width="2" stroke-linecap="round"/>
+    <path d="M47 36L50 32L54 36" stroke="#4770FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <defs>
+    <clipPath id="clip0_17_2893">
+      <rect width="64" height="64" fill="white"/>
+    </clipPath>
+  </defs>
+</svg>

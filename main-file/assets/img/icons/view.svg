@@ -1,0 +1,25 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0_17_2905)">
+    <!-- Browser Window -->
+    <rect x="8" y="16" width="48" height="32" rx="2" stroke="#4770FF" stroke-width="2" fill="none"/>
+    
+    <!-- Browser Tabs -->
+    <rect x="10" y="18" width="8" height="4" fill="#4770FF"/>
+    <rect x="20" y="18" width="8" height="4" fill="#4770FF"/>
+    <rect x="30" y="18" width="8" height="4" fill="#4770FF"/>
+    
+    <!-- UI Elements -->
+    <rect x="14" y="26" width="36" height="4" fill="#4770FF"/>
+    <rect x="14" y="32" width="28" height="4" fill="#4770FF"/>
+    <rect x="14" y="38" width="24" height="4" fill="#4770FF"/>
+    
+    <!-- Code Brackets -->
+    <path d="M20 48L16 52L20 56" stroke="#4770FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M44 48L48 52L44 56" stroke="#4770FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <defs>
+    <clipPath id="clip0_17_2905">
+      <rect width="64" height="64" fill="white"/>
+    </clipPath>
+  </defs>
+</svg>
